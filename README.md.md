@@ -1,33 +1,45 @@
- Retail Sales EDA Project
- Objective - To perform Exploratory Data Analysis (EDA) on retail sales data and identify trends, patterns, and business insights.
-- Tools Used
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Jupyter Notebook
+ Radhika Store Annual Sales Dashboard 
 
-Dataset Files - retail_sales.csv
+Project Overview
+The Radhika Store Annual Sales Dashboard is an interactive Microsoft Excel dashboard developed to analyze annual sales performance using business intelligence techniques. The dashboard transforms raw sales data into meaningful insights through Pivot Tables, Pivot Charts, Slicers, and KPI visualizations.
 
+It enables users to monitor sales trends, customer demographics, order status, regional performance, and sales channel distribution, helping stakeholders make data-driven business decisions.
 
-Project Workflow
-1. Data Loading
-2. Data Cleaning
-3. Descriptive Statistics
-4. Sales Trend Analysis
-5. Category Analysis
-6. Region Analysis
-7. Profit Analysis
-8. Correlation Analysis
-9. Insights and Recommendations
+Objectives
+Analyze annual sales performance
+Track monthly sales and order trends
+Understand customer demographics
+Identify top-performing states
+Analyze sales across different online channels
+Monitor order status distribution
+Create an interactive dashboard for business reporting
 
-Recommendations
-- Increase stock for high-selling categories.
-- Improve marketing in low-performing regions.
-- Use monthly sales trends for inventory planning.
+Tools & Technologies
+Microsoft Excel
+Pivot Tables
+Pivot Charts
+Slicers
+Data Cleaning
+Conditional Formatting
+Dashboard Design
+Dataset Information
 
-Conclusion
-This project helps businesses understand sales performance and make better business decisions.
+Business Impact
+This dashboard helps business managers to:
+Monitor annual sales performance
+Understand customer purchasing behavior
+Identify top-performing regions
+Evaluate sales channel effectiveness
+Track order fulfillment performance
+Support data-driven decision-making
 
-Author-Spurti Kini
+Future Enhancements
+Power Query automation
+Power Pivot Data Model
+Dynamic KPI cards
+Forecasting and trend analysis
+Advanced Excel formulas
+Power BI version of the dashboard
+Data Cleaning
+Data Visualization
+Dashboard Development
